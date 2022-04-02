@@ -1,0 +1,31 @@
+{
+  "name": "crm-website",
+  "version": "1.0.0",
+  "description": "This is ZeroTen Technologies Customer Relationship Manager Website Plateform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroTen-Technologies/crm-website.git"
+  },
+  "keywords": [
+    "Customer",
+    "Relationship",
+    "Manager"
+  ],
+  "author": "ZeroTen Technologies",
+  "license": "ISC",
+  "engines": {
+    "node": "16.14.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ZeroTen-Technologies/crm-website/issues"
+  },
+  "homepage": "https://github.com/ZeroTen-Technologies/crm-website#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
